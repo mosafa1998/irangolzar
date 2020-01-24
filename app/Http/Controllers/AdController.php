@@ -14,7 +14,7 @@ class AdController extends Controller
      */
     public function index()
     {
-        //
+        $ads=Ad::all();
     }
 
     /**
