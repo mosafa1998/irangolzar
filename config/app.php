@@ -12,7 +12,7 @@ return [
     | any other location as required by the application or its packages.
     |
     */
-
+    'faker_locale' => 'fa_IR',
     'name' => env('APP_NAME', 'Laravel'),
 
     /*
